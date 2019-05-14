@@ -1,6 +1,6 @@
 {
   "name": "@freecycle/node-deb",
-  "version": "0.10.8-tfn1",
+  "version": "0.10.8-tfn2",
   "description": "Debian packaging for Node.js projects",
   "author": "heartsucker <heartsucker@autistici.org>",
   "bin": {
